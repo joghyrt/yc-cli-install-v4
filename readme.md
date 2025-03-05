@@ -1,4 +1,4 @@
-# Install the latest version of yandex cloud cli
+# Install the latest version of yandex cloud cli.
 
 ## Example usage
 
@@ -10,7 +10,9 @@
 
 ```
 
-***(eng)*** This will install the latest version of yandex cloud cli. Then logging in if SA_KEY parameter is provided.
+###It is updated versions to v4 actions
+
+***(eng)*** This will install the latest version of yandex cloud cli. Then logging in if SA_KEY parameter is provided. 
 
 ***(rus)*** Устанавливает последнюю версию yc cli. Выполняет логин если указан SA_KEY.
 
