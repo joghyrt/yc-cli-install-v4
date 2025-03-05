@@ -4,7 +4,7 @@
 
 ```yaml
 - name: Try to install yc cli and login into yandex cloud
-  uses: okar1/yc-cli-install@master
+  uses: joghyrt/yc-cli-install-v4@master
   with:
     SA_KEY: your service account private key (json form) [optional]
 
