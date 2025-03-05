@@ -1,5 +1,8 @@
 name: 'yc-cli-install-v4'
 description: 'deploy'
+branding:
+  icon: 'sun'
+  color: 'blue'
 inputs:
   SA_KEY:
     description: 'Yandex cloud service account private key. No logging in if parameter is not provided.'
