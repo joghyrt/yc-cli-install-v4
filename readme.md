@@ -10,7 +10,7 @@
 
 ```
 
-###It is updated versions to v4 actions
+***It is updated versions to v4 actions***
 
 ***(eng)*** This will install the latest version of yandex cloud cli. Then logging in if SA_KEY parameter is provided. 
 
