@@ -1,4 +1,4 @@
-name: 'yc-cli-install'
+name: 'yc-cli-install-v4'
 description: 'deploy'
 inputs:
   SA_KEY:
